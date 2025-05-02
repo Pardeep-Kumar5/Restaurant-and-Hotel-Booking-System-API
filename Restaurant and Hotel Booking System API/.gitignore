@@ -1,0 +1,25 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Rider files
+.idea/
+
+# User-specific files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+
+# Others
+*.DS_Store
+*.dbmdl
+*.bak
+*.pdb
